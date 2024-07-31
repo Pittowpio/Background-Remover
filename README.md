@@ -34,5 +34,5 @@ Edit these values in the main.py file 📁.
 ```$ pip install telethon
 ```
 ```bash
-sudo pacman -Sy && sudo pacman -S archlinuxcn-keyring
+sudo pacman -Sy
 ```

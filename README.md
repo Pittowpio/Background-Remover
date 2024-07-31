@@ -69,5 +69,8 @@ pip install pymongo
 python main.py
 ```
 **Links and Contacts 💘**
-![tele](./images/tg.png)
-t.me/pittow
+Telegram Channel:- https://t.me/pittowpage
+Telegram Contact:-
+https://t.me/pittopiooh
+Email 📧:-
+hubg34917@gmail.com

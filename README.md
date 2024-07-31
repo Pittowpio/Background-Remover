@@ -1,7 +1,7 @@
    **Telegram Background Remover**
-![Example](./example.png)
+![Example](./images/example.png)
 
 here's another wholesome example:- 
-![Example](./example1.png)
+![Example](./images/example1.png)
 
 

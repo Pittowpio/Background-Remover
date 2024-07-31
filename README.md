@@ -69,7 +69,8 @@ pip install pymongo
 python main.py
 ```
 **Links and Contacts 💘**
-[![TG](./images/tg.png)]
+[![TG]
+(./images/tg.png)]
 (https://t.me/pittowpage)
 
 [![Sparkline](https://stars.medv.io/Teamultroid/Ultroid.svg)](https://stars.medv.io/pittowpio/Background-remover)

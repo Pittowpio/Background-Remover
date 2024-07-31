@@ -73,4 +73,4 @@ python main.py
 (./images/tg.png)]
 (https://t.me/pittowpage)
 
-[![Sparkline](https://stars.medv.io/Teamultroid/Ultroid.svg)](https://stars.medv.io/pittowpio/Background-remover)
+[![Sparkline](https://github.com/Pittowpio/Background-Remover/blob/main/images/tg.png)](https://stars.medv.io/pittowpio/Background-remover)

@@ -25,3 +25,5 @@ here's another wholesome example with telegram bot. (the ability to change backg
 
 >PRIVATE_CHANNEL_ID ='id' #id of the channel/group.
 
+edit these values in the main.py file 📁
+

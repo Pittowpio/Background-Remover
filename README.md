@@ -7,7 +7,8 @@ here's another wholesome example:-
 **Special Features**
 > Accurate Images 🖼
 > 
-Fast and lightning ⚡
+>Fast and lightning ⚡
+
 Force sub to channel ✌
 Free and no limits 👌
 Change Background Color 🎨

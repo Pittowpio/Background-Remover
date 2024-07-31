@@ -51,7 +51,7 @@ python main.py
 ```
 <b>A stable pluggable Telegram userbot + Voice & Video Call music bot, based on Telethon.</b>
 
-[![](https://img.shields.io/badge/Ultroid-v0.8-crimson)](#)
+[![](https://img.shields.io/badge/Background-Remover-crimson)](#)
 [![Stars](https://img.shields.io/github/stars/pittowpio/Background-Remover?style=flat-square&color=yellow)](https://github.com/pittowpio/Background-Remover/stargazers)
 [![Forks](https://img.shields.io/github/forks/Pittowpio/Background-Remover?style=flat-square&color=orange)](https://github.com/pittowpio/Background-Remover/fork)
 [![Size](https://img.shields.io/github/repo-size/pittowpio/Background-Remover?style=flat-square&color=green)](https://github.com/Pittowpio/Background-Remover/)   

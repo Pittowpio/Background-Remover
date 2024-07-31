@@ -31,8 +31,6 @@ Edit these values in the main.py file 📁.
 
 ## Install necessary libraries and modules :- 
 
-```$ pip install telethon
-```
-```bash
-sudo pacman -Sy
+```$ pip
+install telethon
 ```

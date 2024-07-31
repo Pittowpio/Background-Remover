@@ -1,1 +1,1 @@
-  **Telegram Background Remover**
+   **Telegram Background Remover**

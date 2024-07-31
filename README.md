@@ -1,4 +1,4 @@
-   **Telegram Background Remover**
+  # **Telegram Background Remover**
 ![Example](./images/example.png)
 
 here's another wholesome example with telegram bot. (the ability to change background colors 🎨)
@@ -16,7 +16,7 @@ here's another wholesome example with telegram bot. (the ability to change backg
 >Change Background Color 🎨
 
 
-**Necessary Fields**
+## **Necessary Fields**
 >TOKEN = "Bot token"
 
 >MONGO_URI = "mongo db uri"

@@ -32,5 +32,15 @@ Edit these values in the main.py file 📁.
 ## Install necessary libraries and modules :- 
 
 ```
-   $ pip install mongoose
+pip install pyTelegramBotAPI
 ```
+```
+pip install pillow
+```
+```
+pip install rembg
+```
+```
+pip install pymongo
+```
+

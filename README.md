@@ -31,6 +31,6 @@ Edit these values in the main.py file 📁.
 
 ## Install necessary libraries and modules :- 
 
-```$ pip install telethon
+```
    $ pip install mongoose
 ```

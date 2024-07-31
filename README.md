@@ -43,4 +43,9 @@ pip install rembg
 ```
 pip install pymongo
 ```
+## Run the telegram bot 
+
+```
+python main.py
+```
 

@@ -29,6 +29,7 @@ Edit these values in the main.py file 📁.
 
 # let's see how to host it. 
 
-## Install necessary library and modules :- 
+## Install necessary libraries and modules :- 
 
-```$ pip install telethon ```
+```$ pip install telethon
+```

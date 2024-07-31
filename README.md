@@ -5,7 +5,7 @@ here's another wholesome example:-
 ![Example](./images/example1.png)
 
 **Special Features**
-> Accurate Images 🖼
+> Accurate Images 🖼\n
 > Fast and lightning ⚡
 > Force sub to channel ✌
 > Free and no limits 👌

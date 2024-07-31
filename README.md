@@ -75,5 +75,9 @@ Telegram Channel:- https://t.me/pittowpage
 Telegram Contact:-
 https://t.me/pittopiooh
 
-Email 📧:-
+Email 📧:-  
 hubg34917@gmail.com
+
+**Special Thanks 🌹**
+1. Removebg
+2. Telebot

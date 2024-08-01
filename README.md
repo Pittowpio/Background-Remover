@@ -7,6 +7,8 @@ here's another wholesome example with telegram bot. (the ability to change backg
 
 #  Bot Link 🔗 - https://t.me/BackGrndRemoverBot
 
+Star This Repository ⭐
+
 **Special Features**
 > Accurate Images 🖼
 > 
